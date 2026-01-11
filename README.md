@@ -19,17 +19,6 @@
 - Developing **intelligent recommendation engines** leveraging **Gemini AI** and **NLP** technologies
 - Creating end-to-end **ML pipelines** from data preprocessing to deployment-ready models
 
-👯 **Looking to Collaborate On:**
-- **AI/ML projects** focused on Computer Vision, NLP, and Generative AI applications
-- **Open-source contributions** related to ML frameworks, RAG systems, and intelligent automation
-- Building scalable **backend systems** for AI-powered applications using Python and Flask/Django
-
-🌱 **Currently Learning:**
-- **GenAI Development** and **RAG (Retrieval-Augmented Generation)** systems through CodeSignal
-- Advanced **Python** techniques for AI/ML optimization
-- **C++** for performance-critical algorithm implementation
-- Cloud deployment strategies with **AWS** and containerization
-
 💬 **Ask Me About:**
 - Building **Computer Vision** systems with YOLO and OpenCV for real-time object detection
 - Implementing **NLP solutions** using BERT, transformers, and large language models
@@ -39,33 +28,6 @@
 ⚡ **Fun Fact:**  
 - I published my first research paper on ML-driven recipe recommendation systems in Springer before graduation — turning leftovers into gourmet meals with AI!
 - Bad at Math but somehow still finding myself getting immersed in it 😅
-
-
-## 🔬 Featured Projects
-
-### 🚦 [Automated E-Challan Generation System](https://github.com/YogeshJethani)
-**AI-powered traffic violation detection & automated challan generation**
-
-- Built end-to-end pipeline using **YOLO object detection** and **TesseractOCR** for license plate recognition
-- Processed real traffic camera footage from Smart City Ahmedabad Development Limited (SCADL)
-- Automated workflow from video input → violation detection → PDF challan generation
-- **Tech Stack:** Python, YOLO, OpenCV, PostgreSQL, TesseractOCR, Flask
-
-### 📄 [AI Resume Screener](https://github.com/YogeshJethani)
-**Deep learning-based resume classification system**
-
-- Implemented **Sentence-BERT** for semantic understanding of resume content
-- Achieved high accuracy in automated candidate-role matching
-- Comprehensive NLP pipeline: text preprocessing → TF-IDF vectorization → embeddings
-- **Tech Stack:** Python, BERT, TensorFlow, PyMuPDF, scikit-learn, Streamlit
-
-### 🎓 [Gemini AI Course Navigation System](https://github.com/YogeshJethani)
-**Intelligent course recommender with conversational AI**
-
-- Architected recommendation engine using **Google Gemini AI API**
-- Integrated LinkedIn Learning API for personalized learning paths
-- Natural language query interface for course discovery
-- **Tech Stack:** Python, Gemini AI, LinkedIn API, Streamlit
 
 ---
 
