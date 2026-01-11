@@ -85,7 +85,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 Machine Learning & AI
+#### 🤖 Machine Learning & AI
 ```
 ◆ Neural Networks & Deep Learning
 ◆ Computer Vision (YOLO, OpenCV)
@@ -97,7 +97,7 @@
 </td>
 <td width="33%" valign="top">
 
-### 💻 Software Engineering
+#### 💻 Software Engineering
 ```
 ◆ Object-Oriented Programming
 ◆ REST APIs & Backend Development
@@ -109,7 +109,7 @@
 </td>
 <td width="33%" valign="top">
 
-### 🧮 Data Structures & Algorithms
+#### 🧮 Data Structures & Algorithms
 ```
 ◆ Advanced DSA in C++
 ◆ Algorithm Design & Analysis
@@ -158,7 +158,5 @@ I'm always interested in discussing AI/ML projects, collaboration opportunities,
 <div align="center">
 
 ### 💡 "Building intelligent systems, one project at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=YogeshJethani&color=0e75b6&style=flat-square)
 
 </div>
