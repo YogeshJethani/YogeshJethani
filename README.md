@@ -67,7 +67,7 @@ class YogeshJethani:
 
 ## 📚 Published Research
 
-**Vittles Recipe Recommender: A Gourmet Food Guide from Leftovers** | *March 2025*
+**[Vittles Recipe Recommender: A Gourmet Food Guide from Leftovers](https://link.springer.com/chapter/10.1007/978-981-95-0629-3_12)** | *March 2025*
 - ML-driven recipe recommendation system using leftover ingredients
 - Published by **Springer** (Lecture Notes in Networks and Systems)
 - International Conference on AI Systems and Sustainable Technologies
@@ -80,7 +80,8 @@ class YogeshJethani:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
