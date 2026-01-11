@@ -81,24 +81,56 @@
 
 ## 📊 Core Competencies
 
-**Machine Learning & AI**
-- Neural Networks & Deep Learning
-- Computer Vision (YOLO, OpenCV)
-- Natural Language Processing
-- Recommender Systems
-- Retrieval-Augmented Generation (RAG)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Software Engineering**
-- Object-Oriented Programming
-- REST APIs & Backend Development
-- Database Design & Normalization
-- Agile Methodology
-- Software Design Patterns
+### 🤖 Machine Learning & AI
+```
+◆ Neural Networks & Deep Learning
+◆ Computer Vision (YOLO, OpenCV)
+◆ Natural Language Processing
+◆ Recommender Systems
+◆ Retrieval-Augmented Generation
+```
 
-**Data Structures & Algorithms**
-- Advanced DSA in C++
-- Algorithm Design & Analysis
-- Optimization Techniques
+</td>
+<td width="33%" valign="top">
+
+### 💻 Software Engineering
+```
+◆ Object-Oriented Programming
+◆ REST APIs & Backend Development
+◆ Database Design & Normalization
+◆ Agile Methodology
+◆ Software Design Patterns
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🧮 Data Structures & Algorithms
+```
+◆ Advanced DSA in C++
+◆ Algorithm Design & Analysis
+◆ Optimization Techniques
+◆ Problem Solving
+◆ Computational Complexity
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Skill Distribution
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-40%25-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-35%25-4ECDC4?style=for-the-badge&logo=code&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-25%25-95E1D3?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
 
 ---
 
