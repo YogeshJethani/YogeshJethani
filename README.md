@@ -1,41 +1,45 @@
 <div align="center">
 
-# Yogesh Jethani
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Yogesh)](https://git.io/typing-svg)
 
 ### AI/ML Engineer | Building Intelligent Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshjethani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-jethani-a10133296)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjethani849@gmail.com)
-[![CodeSignal](https://img.shields.io/badge/CodeSignal-1E3A8A?style=for-the-badge&logo=code&logoColor=white)](#)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-1E3A8A?style=for-the-badge&logo=code&logoColor=white)](https://codesignal.com/learn/profile/cmjn6y6a700f5lb04dhg3b2ih)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-I'm a Computer Science student at GLS University specializing in **AI/ML engineering** with a focus on building practical, intelligent systems. Currently deepening my expertise through **CodeSignal's learning paths** in Python, C++, GenAI, and RAG (Retrieval-Augmented Generation).
+🔭 **What I'm Working On:**
+- Building **AI-powered automation systems** using different technologies for real-world applications
+- Developing **intelligent recommendation engines** leveraging **Gemini AI** and **NLP** technologies
+- Creating end-to-end **ML pipelines** from data preprocessing to deployment-ready models
 
-My work centers on applying machine learning to solve real-world problems — from automated traffic violation detection systems to intelligent resume screening and personalized course recommendations.
+👯 **Looking to Collaborate On:**
+- **AI/ML projects** focused on Computer Vision, NLP, and Generative AI applications
+- **Open-source contributions** related to ML frameworks, RAG systems, and intelligent automation
+- Building scalable **backend systems** for AI-powered applications using Python and Flask/Django
 
-```python
-class YogeshJethani:
-    def __init__(self):
-        self.location = "Ahmedabad, Gujarat, India"
-        self.education = "BTech CSE @ GLS University (Expected 2026)"
-        self.current_focus = ["GenAI", "RAG Systems", "Computer Vision", "NLP"]
-        self.learning_via = "CodeSignal (Python | C++ | GenAI | RAG)"
-        
-    def get_interests(self):
-        return [
-            "Building AI-powered automation systems",
-            "Deep Learning & Neural Networks",
-            "Intelligent recommendation engines",
-            "Computer Vision applications"
-        ]
-```
+🌱 **Currently Learning:**
+- **GenAI Development** and **RAG (Retrieval-Augmented Generation)** systems through CodeSignal
+- Advanced **Python** techniques for AI/ML optimization
+- **C++** for performance-critical algorithm implementation
+- Cloud deployment strategies with **AWS** and containerization
 
----
+💬 **Ask Me About:**
+- Building **Computer Vision** systems with YOLO and OpenCV for real-time object detection
+- Implementing **NLP solutions** using BERT, transformers, and large language models
+- Creating **intelligent systems** that automate complex workflows
+- My journey from web development to specializing in AI/ML engineering
+
+⚡ **Fun Fact:**  
+- I published my first research paper on ML-driven recipe recommendation systems in Springer before graduation — turning leftovers into gourmet meals with AI!
+- Bad at Math but somehow still finding myself getting immersed in it 😅
+
 
 ## 🔬 Featured Projects
 
@@ -97,7 +101,14 @@ class YogeshJethani:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### AI Technologies
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
@@ -145,7 +156,7 @@ I'm actively expanding my skill set through **CodeSignal** with focused learning
 I'm always interested in discussing AI/ML projects, collaboration opportunities, or just connecting with fellow developers!
 
 - 📧 Email: yjethani849@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yogeshjethani](https://linkedin.com/in/yogeshjethani)
+- 💼 LinkedIn: [https://linkedin.com/in/yogeshjethani](https://www.linkedin.com/in/yogesh-jethani-a10133296/)
 - 📱 Phone: +91 7862053414
 
 ---
